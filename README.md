@@ -45,20 +45,20 @@
 #
 <h3 align="left"> 🚀 My Projects
 
-## 🔹 Blog 1: [Data Engneering in Financial services]
+## 🔹 Blog 1: Data Engneering in Financial services
 - Description: A blog exploring the role of analytics and engineering concepts in financial services, providing an overview of architectural frameworks, data flow processes, key analytics techniques, and metrics used. It discusses the benefits of data engineering in problem-solving, supported by real-world use cases. Additionally, it highlights current market trends and examines how financial institutions leverage technology to drive growth and innovation. 
 - Link: [View Blog](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/Data%20Engineering%20in%20Financial%20Services.pptx)
 
-## 🔹 Blog 2: [Data Engneering in Financial services](projects/data-pipeline-optimization.md)
+## 🔹 Blog 2: Data Engneering in Financial services
 - Description: A blog exploring the role of analytics and engineering concepts in E-commerce, providing an overview of architectural frameworks, data flow processes, key analytics techniques, and metrics used. It discusses the benefits of data engineering in problem-solving, supported by real-world use cases. Additionally, it highlights current market trends and examines how E-commerce platforms leverage Data analytics to drive growth and innovation. 
 - Link: [View Blog](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/Data%20Engineering%20in%20E-commerce.pptx)
   
-## 🔹 Project 1: [Excel Dashboard for Sales]
+## 🔹 Project 1: Excel Dashboard for Sales
 - Description: Created interactive dashboards for E-commerce platform to make data visualizations for revenue reporting,  product and customer behavior reporting.
 - Tech Stack: Excel, Pivot, Lookup
 - Link: [View Project](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/EverMart%20Online%20-%20ECommerceData.xlsx)
 
-## 🔹 Project 2: [Power BI Dashboard for Financial Data]
+## 🔹 Project 2: Power BI Dashboard for Financial Data
 - Description: Created interactive dashboards for financial insights.
 - Tech Stack: Power BI, DAX, PowerQuery
 - Link: [View Project](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/FinancialDashboard.pbix)
