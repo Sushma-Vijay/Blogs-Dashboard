@@ -45,11 +45,11 @@
 #
 <h3 align="left"> 🚀 My Projects
 
-## 🔹 Blog 1: Data Engneering in Financial services
+## 🔹 Blog 1: Data Engineering in Financial services
 - Description: A blog exploring the role of analytics and engineering concepts in financial services, providing an overview of architectural frameworks, data flow processes, key analytics techniques, and metrics used. It discusses the benefits of data engineering in problem-solving, supported by real-world use cases. Additionally, it highlights current market trends and examines how financial institutions leverage technology to drive growth and innovation. 
 - Link: [View Blog](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/Data%20Engineering%20in%20Financial%20Services.pptx)
 
-## 🔹 Blog 2: Data Engneering in Financial services
+## 🔹 Blog 2: Data Engineering in E-Commerce
 - Description: A blog exploring the role of analytics and engineering concepts in E-commerce, providing an overview of architectural frameworks, data flow processes, key analytics techniques, and metrics used. It discusses the benefits of data engineering in problem-solving, supported by real-world use cases. Additionally, it highlights current market trends and examines how E-commerce platforms leverage Data analytics to drive growth and innovation. 
 - Link: [View Blog](https://github.com/Sushma-Vijay/Blogs-Dashboard/blob/main/Data%20Engineering%20in%20E-commerce.pptx)
   
